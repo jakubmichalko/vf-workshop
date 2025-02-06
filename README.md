@@ -1,10 +1,12 @@
 # vf-workshop
+Zde si muzete [stahnout prezentaci](./VF-DoD-2025.pdf)
 
-# Colors
+
+
+
+
+# Barvy
 Color mixer: https://www.w3schools.com/colors/colors_mixer.asp 
 
-
-# Resources
-
-Colors:
+# Zdroje
 https://karenhalbert.blogspot.com/2015/11/color-mixing-on-web-with-online-apps.html
